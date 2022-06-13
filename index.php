@@ -70,6 +70,41 @@
                         <li>
                             <a href="/exercicio.php?dir=tipo-de-dados&file=booleano">Tipo Booleano</a>
                         </li>
+                        <li>
+                            <a href="/exercicio.php?dir=tipo-de-dados&file=conversoes">Conversões</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <div class="mini-header azul">
+                        <h3>Módulo 03</h3>
+                        <h6>Variáveis</h6>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=basico">Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=desafio-equacao">Desafio Equação</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=atribuicao">Atribuições</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=variaveis-variaveis">Variáveis Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=desafio-variaveis-variaveis">Desafio Variáveis Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=valor-referencia">Valor vs Referência</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=variaveis&file=constantes">Constantes</a>
+                        </li>
                     </ul>
                 </div>
 
