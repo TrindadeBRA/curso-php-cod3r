@@ -68,7 +68,7 @@ body {
 
 .modulos {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
   justify-content: space-around;
 }
 
@@ -186,3 +186,8 @@ body {
   background-color:#4a148c;
 }
 
+p.subtitle {
+  margin-bottom: 0!important;
+  color: #f00;
+  font-weight: bold;
+}

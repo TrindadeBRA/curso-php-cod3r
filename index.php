@@ -107,6 +107,79 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <div class="mini-header laranja">
+                        <h3>Módulo 05</h3>
+                        <h6>Arrays</h6>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=basico">Array</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=mapa">Mapa</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=desafio-index">Desafio Index</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=desafio-meses">Desafio Meses</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=operacoes">Operações</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=desafio-sorteio">Desafio Sorteio</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=mult">Multidimensionais</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=constantes">Arrays Constantes</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=get">$_GET</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=post">$_POST</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=array&file=comparacao">Comparação Arrays</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <div class="mini-header roxo">
+                        <h3>Módulo 04</h3>
+                        <h6>Controles</h6>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=if-else">Variáveis</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=operadores-relacionais">Op. Relacionais</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=desafio-pi">Desafio PI</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=operadores-logicos">Op. Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=desafio-operadores-logicos">Desafio Op. Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=operador-ternario">Op. Ternário</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=switch">Switch</a>
+                        </li>
+                        <li>
+                            <a href="/exercicio.php?dir=controle&file=desafio-switch">Desafio Switch</a>
+                        </li>
+                    </ul>
+                </div>
 
             </nav>
         </div>
